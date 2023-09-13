@@ -30,7 +30,8 @@ This notebook performs the following tasks:
 
 ***Data Exploration:*** It displays the first few rows of the DataFrame to give you an overview of the dataset.
 
-***Data Filtering:*** It filters the data for Asian countries and randomly selects 5 countries from Asia for further analysis.
+***Data Filtering:*** It filters the data for Asian countries and randomly selects 5 countries from Asia for further 
+                      analysis.
 
 ***Visualization -*** Beer Servings by Continent: It visualizes the distribution of beer servings by continent using a boxplot.
 
