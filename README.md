@@ -22,19 +22,19 @@ Clone this repository to your local machine or download the Jupyter Notebook fil
 ## Code Overview
 This notebook performs the following tasks:
 
-**Data Loading:** It loads the dataset from the provided URL into a pandas DataFrame.
+***Data Loading:*** It loads the dataset from the provided URL into a pandas DataFrame.
 
-**Basic DataFrame Information:** It displays basic information about the DataFrame, including the data types and missing values.
+***Basic DataFrame Information:*** It displays basic information about the DataFrame, including the data types and missing values.
 
-**Summary Statistics:** It shows summary statistics for numerical columns, providing insights into the distribution of data.
+***Summary Statistics:*** It shows summary statistics for numerical columns, providing insights into the distribution of data.
 
-**Data Exploration:** It displays the first few rows of the DataFrame to give you an overview of the dataset.
+***Data Exploration:*** It displays the first few rows of the DataFrame to give you an overview of the dataset.
 
-**Data Filtering:** It filters the data for Asian countries and randomly selects 5 countries from Asia for further analysis.
+***Data Filtering:*** It filters the data for Asian countries and randomly selects 5 countries from Asia for further analysis.
 
-**Visualization** - Beer Servings by Continent: It visualizes the distribution of beer servings by continent using a boxplot.
+***Visualization -*** Beer Servings by Continent: It visualizes the distribution of beer servings by continent using a boxplot.
 
-**Visualization** - Correlation Matrix: It visualizes the correlation between different numerical columns using a heatmap.
+***Visualization -*** Correlation Matrix: It visualizes the correlation between different numerical columns using a heatmap.
 
 ## License
 This code is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the MIT License. Please see the LICENSE file for more details.
